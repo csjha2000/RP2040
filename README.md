@@ -66,7 +66,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 <!-- CONTACT -->
 ## Contact
 
-Chandra Shekhar Jha - csjha1996@gmail.com
+Chandra Shekhar Jha - ChandraShekhar.Jha@iiitb.ac.in ,csjha1996@gmail.com
 
 Project Link: [https://github.com/csjha2000/RP2040](https://github.com/csjha2000/RP2040)
 
