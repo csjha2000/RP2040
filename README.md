@@ -48,3 +48,33 @@ __myLibrary.pretty__      : for footprints
 
 ### Bottom View
 ![image](https://github.com/user-attachments/assets/6fa8f93c-f357-4df0-a7a6-5cc978e38d5d)
+
+
+
+
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Chandra Shekhar Jha - csjha1996@gmail.com
+
+Project Link: [https://github.com/csjha2000/RP2040](https://github.com/csjha2000/RP2040)
+
+
+
+## Acknowledgments
+
+I would like to express my sincere gratitude to my college, **International Institute of Information Technology (IIIT-B)**, for providing the resources and support to complete this project.  
+
+I am especially grateful to my professor, **Dr. Kurian Polachan**, for their invaluable guidance, encouragement, and expertise throughout the development of this work.
+
+
+
+
